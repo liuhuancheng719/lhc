@@ -1,0 +1,4 @@
+interface:
+  display_name: "粤菜功能知识库"
+  short_description: "按关键词检索本机粤菜已上线功能、需求简介与编号，并打开对应 PDF 文档"
+  default_prompt: "使用 $yuecai-knowledge-search 帮我检索拆席相关的粤菜功能文档，并打开对应 PDF。"
